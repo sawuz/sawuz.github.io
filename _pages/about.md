@@ -9,35 +9,49 @@ redirect_from:
 ---
 
 
-![Illustration of combining vision and language modalities](/images/data.jpg){: .align-right width="300px"}
+![alt text](/images/data.jpg){: .align-right width="300px"}
 
-👨🏻‍💻 I'm a dynamic Data Engineer with proven ability to deliver short or long-term projects in data engineering, data warehousing, machine learning, and business intelligence realm. My passion is to partner with my clients to deliver top-notch, scalable data solutions to provide immediate and lasting value.
+👨🏻‍💻  Welcome to my corner of the digital world where data takes the spotlight! I'm a hands-on Data Engineer who loves crafting smart solutions for data puzzles. I dive into the world of data engineering, data warehousing, machine learning, and business insights. My career path is all about aiming high and making data work its magic for my clients.
 
-🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
+<br>
 
-📚 I'm currently working towards my Master's Thesis in the field of Computer Vision and Natural Language Processing.
+# **🔬 Exploring and Innovating:**
 
-📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
+- I'm like a curious detective in the world of data, Driven by curiosity to uncover the mysteries hidden within the world of data.I'm captivated by the intriguing relationship between visuals and language, constantly seeking the threads that weave these elements together into a compelling narrative. With each discovery, I uncover fresh insights that empower businesses and individuals alike to harness the power of information for transformative results.
+
+<br>
+
+# **📚 Sharing What I Know:**
+
+- Not only do I love learning, but I also enjoy helping others on their journey into the exciting land of Machine Learning and academia. I write blogs to share what I've learned over time. Think of it like passing on cool secrets that make data stuff easier.
 
 
 
+# **Solutions I provide:**
 
-**I specialize in the following data solutions:**
-✔️ Data strategy advisory & technology selection/recommendation
-✔️ Building data warehouses using modern cloud platforms and technologies
-✔️ Creating and automating data pipelines, real-time streaming & ETL processes
-✔️ Building highly intuitive, interactive dashboards.
-✔️ Data Cleaning, Processing, and Machine Learning models
-✔️ Data Migration (Heterogenous and Homogenous)
+**📊 Smart Data Planning: I'm like a data coach, helping you plan the best game plan for your data and picking the right tools.**
 
-**Some of the technologies I most frequently work with are:**
+**🏢 Organizing Data Homes: I build cool data homes using the latest tech tools and platforms that keep things tidy and easy to use.**
 
-☁️ Cloud: Amazon Web Services, Google Cloud Platforms
+**🔗 Data Superhighways: I create smooth roads for data to travel, helping it flow effortlessly in real-time and doing fancy tricks like transforming and moving data around.**
 
-👨‍💻 Databases: SQL Server, Redshift, BigQuery, RDS, PostgreSQL, MySQL, S3, DynamoDB, MongoDB, Cloud Data Store, Redshift
+**📈 Easy-to-Read Dashboards: I make data easy to understand with dashboards that feel like a comfortable map guiding you toward smart decisions.**
 
-⚙️ Orchastration Tools:  Airflow and Prefect
+**🧹 Neat and Tidy Data: Think of me as a data janitor, making sure your data is clean and ready to help you make important calls.**
 
-📊 BI/Visualization: Looker Studio ,Tableau, PowerBI, AWS QuickSight 
+**🚀 Moving Data Safely: I'm like a data pilot, flying your data from one place to another without a single bump or glitch.
+**
 
-🤖 Machine learning -  Jupyter Notebook, Python, Pandas, Numpy,Scikit-learn,TensorFlow,
+<br>
+
+# **🔧 My Toolbox::**
+
+**☁️ Cloud: Amazon Web Services, Google Cloud Platforms**
+
+**👨‍💻 Databases: SQL Server, Redshift, BigQuery, RDS, PostgreSQL, MySQL, S3, DynamoDB, MongoDB, Cloud Data Store, Redshift**
+
+**⚙️ Orchastration Tools:  Airflow and Prefect**
+
+**📊 BI/Visualization: Looker Studio ,Tableau, PowerBI, AWS,QuickSight**
+
+**🤖 Machine learning -  Jupyter Notebook, Python, Pandas, Numpy,Scikit-learn,TensorFlow,**
