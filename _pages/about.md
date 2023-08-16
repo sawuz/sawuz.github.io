@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
+![Illustration of combining vision and language modalities](/images/data.jpg){: .align-right width="300px"}
 
 👨🏻‍💻 I'm a dynamic Data Engineer with proven ability to deliver short or long-term projects in data engineering, data warehousing, machine learning, and business intelligence realm. My passion is to partner with my clients to deliver top-notch, scalable data solutions to provide immediate and lasting value.
 
