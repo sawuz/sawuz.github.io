@@ -69,7 +69,7 @@ IAM is an essential part of AWS security, and it is important to understand when
  ```Administrator access```,  grants the user full access to all AWS services and resources. This means that the user can perform any action on any AWS resource, including modifying access permissions, creating or deleting resources, and even deleting the entire AWS account.
 
 
- ![alt text](/images/IAM5.png)
+ ![alt text](/images/IAMgit 5.png)
 
  * click on Next.
 
